@@ -1,0 +1,13 @@
+$bg-color: #242424;
+$text-color: #ffffffde;
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.appp {
+  background-color: $bg-color;
+  color: $text-color;
+  height: 100vh;
+}
